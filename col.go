@@ -3,6 +3,7 @@ package xls
 import (
 	"fmt"
 	"math"
+	"strconv"
 )
 
 //content type
